@@ -1,4 +1,4 @@
-# Guida all'Uso dei File per i Comunicati Stampa e l'Ottimizzazione delle Immagini
+# Guida all'Inserimento dei Comunicati Stampa e all'Ottimizzazione delle Immagini
 
 Questo repository contiene due file Markdown che spiegano come inviare comunicati stampa via email e come ottimizzare le immagini prima dell'invio. Ogni file è dedicato a un aspetto specifico del processo: uno per le istruzioni per la creazione e invio dei comunicati stampa via email e uno per l'ottimizzazione delle immagini.
 
