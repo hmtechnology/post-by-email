@@ -6,7 +6,7 @@ Questo repository contiene due file Markdown che spiegano come inviare comunicat
 
 ## 📨 **File 1: Formato per l'Invio dei Comunicati Stampa via Email**
 
-**Nome del file:** `formato_communicati.md`
+**Nome del file:** `formato_comunicati.md`
 
 In questo file vengono fornite tutte le istruzioni su come inviare un comunicato stampa via email. 
 Il file è strutturato in modo che possa essere facilmente seguito per garantire che i comunicati siano inviati correttamente e che il post venga creato automaticamente sul sito.
@@ -35,5 +35,5 @@ Puoi trovare il repository [qui](https://github.com/hmtechnology/post-by-email/b
 
 ## 📂 Contenuto del Repository
 
-- `formato_communicati.md` - Istruzioni per inviare i comunicati stampa via email.
+- `formato_comunicati.md` - Istruzioni per inviare i comunicati stampa via email.
 - `ottimizzazione_immagini.md` - Guida per ottimizzare le immagini prima dell'invio.
