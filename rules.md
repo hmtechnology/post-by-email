@@ -33,6 +33,7 @@ Tutto ciò che si trova fuori da questi due tag **non verrà incluso** nel post.
 [credits]Nome fotografo o fonte immagini[/credits]
 tags: termine1, termine2,
 date: 12 May, 2025
+
 Testo del comunicato stampa vero e proprio, eventualmente con paragrafi, grassetti e link.
 
 [end]
