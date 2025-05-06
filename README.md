@@ -11,7 +11,7 @@ Questo repository contiene due file Markdown che spiegano come inviare comunicat
 In questo file vengono fornite tutte le istruzioni su come inviare un comunicato stampa via email. 
 Il file è strutturato in modo che possa essere facilmente seguito per garantire che i comunicati siano inviati correttamente e che il post venga creato automaticamente sul sito.
 
-> Puoi trovare il repository [qui](https://github.com/hmtechnology/post-by-email/blob/main/formato_comunicati.md).
+> Puoi trovare il repository <a href="https://github.com/hmtechnology/post-by-email/blob/main/formato_comunicati.md" target="_blank">qui</a>.
 
 ---
 
@@ -22,7 +22,7 @@ Il file è strutturato in modo che possa essere facilmente seguito per garantire
 Questo file fornisce linee guida dettagliate per ottimizzare le immagini prima dell'invio dei comunicati stampa. 
 Il file è essenziale per garantire che le immagini siano ottimizzate prima di essere caricate sul sito, migliorando le prestazioni e l'indicizzazione SEO.
 
-> Puoi trovare il repository [qui](https://github.com/hmtechnology/post-by-email/blob/main/ottimizzazione_immagini.md).
+> Puoi trovare il repository <a href="https://github.com/hmtechnology/post-by-email/blob/main/ottimizzazione_immagini.md" target="_blank">qui</a>.
 
 ---
 
