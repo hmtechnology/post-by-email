@@ -31,8 +31,8 @@ Tutto ciò che si trova fuori da questi due tag **non verrà incluso** nel post.
 [title]Titolo SEO del comunicato[/title]
 [desc]Breve descrizione ottimizzata per i motori di ricerca.[/desc]
 [credits]Nome fotografo o fonte immagini[/credits]
-tags: termine1, termine2,
-date: 12 May, 2025
+[tags]termine1, termine2[/tags]
+[data]2025-02-25[/data]
 
 Testo del comunicato stampa vero e proprio, eventualmente con paragrafi, grassetti e link.
 
@@ -48,8 +48,8 @@ Testo del comunicato stampa vero e proprio, eventualmente con paragrafi, grasset
 | `[title]...[/title]` | Titolo SEO (non mostrato nel contenuto)             | ❌           |
 | `[desc]...[/desc]`   | Meta Description (non mostrato nel contenuto)           | ❌           |
 | `[credits]...[/credits]` | Credito fotografico da associare al contenuto | ❌ |
-| `tags:` seguito da parole chiave separate da virgola (minuscole) | Tag del post | ❌           |
-| `date:` nel formato `22 Apr, 2025` | Data del comunicato (usata come data del post) | ❌  |
+| `[tags]...[/tags]` seguito da parole chiave separate da virgola (minuscole) | Tag del post | ❌           |
+| `[data]...[/data]` nel formato `2025-02-25` | Data del comunicato (usata come data del post) | ❌  |
 
 ---
 
@@ -76,8 +76,8 @@ Oggetto: [Eventi] Beauty Innovation Day Roma
 [title]Beauty Innovation Day: innovazione e sostenibilità[/title]
 [desc]Evento nazionale dedicato alle novità del settore estetico e del wellness.[/desc]
 [credits]Fotografo: Maria Rossi[/credits]
-tags: eventi, roma, beauty, innovazione
-date: 14 May, 2025
+[tags]eventi, roma, beauty, innovazione[/tags]
+[data]2025-02-25[/data]
 
 Beauty Innovation Day si terrà a Roma il 14 maggio 2025 presso il centro congressi "La Nuvola".
 Un appuntamento imperdibile per professionisti e aziende del settore.
